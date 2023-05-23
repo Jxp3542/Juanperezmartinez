@@ -1,4 +1,4 @@
-<h1>Hi, I'm Juan, an <a href="https://linkedin.com/in/juan-perez-martinez-470092155/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Juan, a <a href="https://linkedin.com/in/juan-perez-martinez-470092155/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
